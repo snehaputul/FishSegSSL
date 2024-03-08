@@ -1,4 +1,4 @@
-# FishSegSSL
+# FishSegSSL: A Semi-supervised Semantic Segmentation Framework for Fish-eye Images
 
 
 ## Requirements
