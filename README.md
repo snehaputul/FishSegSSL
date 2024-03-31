@@ -2,6 +2,9 @@
 
 Official implementation of the paper [FishSegSSL: A Semi-supervised Semantic Segmentation Framework for Fish-eye Images](https://www.mdpi.com/2313-433X/10/3/71).
 
+***Semi-supervised Semantic Segmentation***
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fishsegssl-a-semi-supervised-semantic/semi-supervised-semantic-segmentation-on-45)](https://paperswithcode.com/sota/semi-supervised-semantic-segmentation-on-45?p=fishsegssl-a-semi-supervised-semantic)
+
 
 ## Requirements
 
